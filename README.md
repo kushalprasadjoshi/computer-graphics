@@ -61,8 +61,8 @@ cd computer-graphics-notes
     </colgroup>
     <thead>
       <tr>
-        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; word-wrap: break-word;">Specific Objectives</th>
-        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; word-wrap: break-word;">Contents</th>
+        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 30%;">Specific Objectives</th>
+        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 70%;">Contents</th>
       </tr>
     </thead>
     <tbody>
