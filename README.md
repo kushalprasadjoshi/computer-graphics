@@ -56,13 +56,13 @@ cd computer-graphics-notes
 <div style="width: 100%; overflow-x: auto;">
   <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
     <colgroup>
-      <col style="width: 30%;">
-      <col style="width: 70%;">
+      <col style="width: 40% !important;">
+      <col style="width: 60% !important;">
     </colgroup>
     <thead>
       <tr>
-        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 30%;">Specific Objectives</th>
-        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 70%;">Contents</th>
+        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 40% !important;">Specific Objectives</th>
+        <th style="border: 1px solid #ddd; padding: 8px; text-align: left; width: 60% !important;">Contents</th>
       </tr>
     </thead>
     <tbody>
