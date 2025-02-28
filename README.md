@@ -67,7 +67,10 @@ cd computer-graphics-notes
   <tbody>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <strong>Become familiar with the broader transformation of dual field of Computer Graphics and familiarize students with basic graphics hardware and software. It intends to enhance the understanding of the technology used for producing graphical output on display devices.</strong>
+        <strong>
+          Become familiar with the broader transformation of dual field of Computer Graphics and familiarize students with basic graphics hardware and software.<br>
+          It intends to enhance the understanding of the technology used for producing graphical output on display devices.
+        </strong>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px;">
         <strong><a href="/theory/01-overview-of-computer-graphics/README.md">Unit 1: Overview of Computer Graphics (7hrs)</a></strong><br>
@@ -82,7 +85,11 @@ cd computer-graphics-notes
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <strong>Learn about various scan conversion and area filling algorithms. Students will be able to implement these scan conversion algorithms using a programming language. This chapter helps students learn how algorithms are used to generate output primitives and fill them with specified intensities.</strong>
+        <strong>
+          Learn about various scan conversion and area filling algorithms.<br>
+          Students will be able to implement these scan conversion algorithms using a programming language.<br>
+          This chapter helps students learn how algorithms are used to generate output primitives and fill them with specified intensities.
+        </strong>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px;">
         <strong><a href="/theory/02-scan-conversion-algorithms/README.md">Unit 2: Scan Conversion Algorithms (7hrs)</a></strong><br>
@@ -99,7 +106,11 @@ cd computer-graphics-notes
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <strong>Get students well acquainted with the two-dimensional geometric transformations and viewing. <br> Able to make use of various transformation operations and viewing operations to reposition and resize objects in two dimensionals scence. <br>Learn about the operations used in viewing routines that convert a world coordinate scene description to a display for an output devie.</strong>
+        <strong>
+          Get students well acquainted with the two-dimensional geometric transformations and viewing.<br>
+          Able to make use of various transformation operations and viewing operations to reposition and resize objects in two dimensionals scence.<br>
+          Learn about the operations used in viewing routines that convert a world coordinate scene description to a display for an output device.
+        </strong>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px;">
         <strong><a href="/theory/03-2d-geometric-transformations/README.md">Unit 3: 2D Geometric Transformations and Viewing (8hrs)</a></strong><br>
@@ -116,7 +127,10 @@ cd computer-graphics-notes
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <strong>Learn about the extensions of two-dimensional methods for geometric transformation in three dimensions. Helps them apply the knowledge of three-dimensional rendering and transformations for representing objects more accurately.</strong>
+        <strong>
+          Learn about the extensions of two-dimensional methods for geometric transformation in three dimensions.<br>
+          Helps them apply the knowledge of three-dimensional rendering and transformations for representing objects more accurately.
+        </strong>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px;">
         <strong><a href="/theory/04-3d-graphics/README.md">Unit 4: Graphics in Three Dimensions (8 hrs)</a></strong><br>
@@ -137,7 +151,10 @@ cd computer-graphics-notes
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <strong>Get acquainted with the techniques used for bringing visual realism in computer-generated graphical output primitives. Familiarize with visible surface detection techniques for creating realistic displays and in computing light intensities of surfaces using lighting or shading models for generating realistic views.</strong>
+        <strong>
+          Get acquainted with the techniques used for bringing visual realism in computer-generated graphical output primitives.<br>
+          Familiarize with visible surface detection techniques for creating realistic displays and in computing light intensities of surfaces using lighting or shading models for generating realistic views.
+        </strong>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px;">
         <strong><a href="/theory/05-visual-realism/README.md">Unit 5: Visual Realism (7hrs)</a></strong><br>
@@ -164,7 +181,11 @@ cd computer-graphics-notes
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <strong>Gain a good understanding of the use of graphical standards necessary for achieving software portability. Become familiar with the basic structure or format of a graphical file and know the ways of visually representing data sets. Learn about writing graphical programs that can be ported to multiple hardware platforms without extensive rewriting of the programs through the use of graphical standards.</strong>
+        <strong>
+          Gain a good understanding of the use of graphical standards necessary for achieving software portability.<br>
+          Become familiar with the basic structure or format of a graphical file and know the ways of visually representing data sets.<br>
+          Learn about writing graphical programs that can be ported to multiple hardware platforms without extensive rewriting of the programs through the use of graphical standards.
+        </strong>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px;">
         <strong><a href="/theory/06-graphical-standards/README.md">Unit 6: Graphical Standards (4hrs)</a></strong><br>
@@ -177,7 +198,10 @@ cd computer-graphics-notes
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px;">
-        <strong>Learn about the library functions provided in OpenGL for graphical rendering and performing geometric transformations. Enable students to write programs for drawing graphical output primitives and performing basic transformations.</strong>
+        <strong>
+          Learn about the library functions provided in OpenGL for graphical rendering and performing geometric transformations.<br>
+          Enable students to write programs for drawing graphical output primitives and performing basic transformations.
+        </strong>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px;">
         <strong><a href="/theory/07-opengl-intro/README.md">Unit 7: Introduction to OpenGL (4hrs)</a></strong><br>
