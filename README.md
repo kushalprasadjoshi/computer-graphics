@@ -54,7 +54,7 @@ cd computer-graphics-notes
 ## Syllabus Table 
 
 <div style="width: 100%; overflow-x: auto;">
-  <table style="width: 100%; border-collapse: collapse table-layout: fixed;">
+  <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
     <colgroup>
       <col style="width: 30%;">
       <col style="width: 70%;">
